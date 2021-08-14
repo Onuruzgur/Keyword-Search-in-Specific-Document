@@ -1,5 +1,5 @@
 # Keyword-Search-in-Specific-Document
-The purpose of this project is keyword search in EASA biweekly reports. Keywords include Tc Holder (Manufacturer) and Type (Aircraft type). The program takes data from the .html file and searches for keywords and outputs a processed .xlsx file. Eğer yayınlanan talimat Uçak üreticisi bakımından ilgisizse "N/A by TC Holder", Uçak türü bakımından ilgisiz ise "N/A by Type" yorumları excel dosyasına işlenir. By the way, the instructions published as APPLIANCES are processed automatically as they include every type of aircraft.
+The purpose of this project is keyword search in EASA biweekly reports. Keywords include Tc Holder (Manufacturer) and Type (Aircraft type). The program takes data from the .html file and searches for keywords and outputs a processed .xlsx file. If the published instruction is irrelevant for the aircraft manufacturer, "N/A by TC Holder", if it is irrelevant for the aircraft type, "N/A by Type" comments are entered in the excel file. By the way, the instructions published as APPLIANCES are processed automatically as they include every type of aircraft.
 
 To illustrate an example, let's take the 14th biweekly report published on 2021-06-28 as an introduction.
 
